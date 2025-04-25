@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Name's Noah!
+🏫 I am currently a Freshman @ California State University, Chico
+
+bye
