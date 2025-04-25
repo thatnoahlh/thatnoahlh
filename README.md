@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup Sigmas 👋
 
 <!--
 **thatnoahlh/thatnoahlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Name's Noah!
+### My name's Noah!
+
 🏫 I am currently a Freshman @ California State University, Chico
 
 bye
