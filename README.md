@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### My name's Noah!
 
-🏫 I am currently a Sophomore @ California State University, Chico
+I am currently a Sophomore @ California State University, Chico
 
 aideu!
