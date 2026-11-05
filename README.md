@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### My name's Noah!
 
-I am currently a Sophomore @ California State University, Chico
+I am currently a Junior @ California State University, Chico.
+
+Most of my work isn't collaborative, nor does it rely heavily on version control. You may find other projects elsewhere.
 
 aideu!
